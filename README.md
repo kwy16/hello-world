@@ -1,2 +1,2 @@
 # hello-world
-Testing
+Hi, I am currently still in the pursuit of studies.
